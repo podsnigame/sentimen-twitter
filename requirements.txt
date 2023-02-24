@@ -1,0 +1,12 @@
+scikit-learn == 1.2.1
+pandas
+numpy
+matplotlib
+plotly
+wordcloud
+transformers
+sentence-transformers
+bertopic
+snscrape == 0.5.0.20230113
+xgboost == 1.7.3
+catboost == 1.1.1
